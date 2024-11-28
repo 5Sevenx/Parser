@@ -1,0 +1,17 @@
+C:\Users\alex.alyeksyeyenko\Desktop\Nueva carpeta\ServerPriceChecker\bin\Debug\net8.0\ServerPriceChecker.exe
+C:\Users\alex.alyeksyeyenko\Desktop\Nueva carpeta\ServerPriceChecker\bin\Debug\net8.0\ServerPriceChecker.deps.json
+C:\Users\alex.alyeksyeyenko\Desktop\Nueva carpeta\ServerPriceChecker\bin\Debug\net8.0\ServerPriceChecker.runtimeconfig.json
+C:\Users\alex.alyeksyeyenko\Desktop\Nueva carpeta\ServerPriceChecker\bin\Debug\net8.0\ServerPriceChecker.dll
+C:\Users\alex.alyeksyeyenko\Desktop\Nueva carpeta\ServerPriceChecker\bin\Debug\net8.0\ServerPriceChecker.pdb
+C:\Users\alex.alyeksyeyenko\Desktop\Nueva carpeta\ServerPriceChecker\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\alex.alyeksyeyenko\Desktop\Nueva carpeta\ServerPriceChecker\obj\Debug\net8.0\ServerPriceChecker.csproj.AssemblyReference.cache
+C:\Users\alex.alyeksyeyenko\Desktop\Nueva carpeta\ServerPriceChecker\obj\Debug\net8.0\ServerPriceChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex.alyeksyeyenko\Desktop\Nueva carpeta\ServerPriceChecker\obj\Debug\net8.0\ServerPriceChecker.AssemblyInfoInputs.cache
+C:\Users\alex.alyeksyeyenko\Desktop\Nueva carpeta\ServerPriceChecker\obj\Debug\net8.0\ServerPriceChecker.AssemblyInfo.cs
+C:\Users\alex.alyeksyeyenko\Desktop\Nueva carpeta\ServerPriceChecker\obj\Debug\net8.0\ServerPriceChecker.csproj.CoreCompileInputs.cache
+C:\Users\alex.alyeksyeyenko\Desktop\Nueva carpeta\ServerPriceChecker\obj\Debug\net8.0\ServerPr.7D4A1C4D.Up2Date
+C:\Users\alex.alyeksyeyenko\Desktop\Nueva carpeta\ServerPriceChecker\obj\Debug\net8.0\ServerPriceChecker.dll
+C:\Users\alex.alyeksyeyenko\Desktop\Nueva carpeta\ServerPriceChecker\obj\Debug\net8.0\refint\ServerPriceChecker.dll
+C:\Users\alex.alyeksyeyenko\Desktop\Nueva carpeta\ServerPriceChecker\obj\Debug\net8.0\ServerPriceChecker.pdb
+C:\Users\alex.alyeksyeyenko\Desktop\Nueva carpeta\ServerPriceChecker\obj\Debug\net8.0\ServerPriceChecker.genruntimeconfig.cache
+C:\Users\alex.alyeksyeyenko\Desktop\Nueva carpeta\ServerPriceChecker\obj\Debug\net8.0\ref\ServerPriceChecker.dll

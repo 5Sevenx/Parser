@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FUUQfFmbA+0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alex.alyeksyeyenko\\Desktop\\ParseServer\\ServerPriceChecker\\ServerPriceChecker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alex.alyeksyeyenko\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

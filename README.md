@@ -13,3 +13,12 @@ This project is designed to parse JSON data and identify **rented** servers that
    - Price below a defined threshold.
    - Includes specific attributes (e.g., hardware specials).
 3. Sends an email with server details using an SMTP client.
+
+---
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8420f4c5-8997-409b-93b7-314e95d73644" alt="Calculator screenshot" />
+</p>
+
+
+

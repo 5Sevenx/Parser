@@ -5,7 +5,7 @@ This project is designed to parse JSON data and identify **rented** servers that
 ---
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8420f4c5-8997-409b-93b7-314e95d73644" alt="Calculator screenshot" />
+  <img src="https://github.com/user-attachments/assets/8420f4c5-8997-409b-93b7-314e95d73644" alt="Result screenshot" />
 </p>
 
 ---
